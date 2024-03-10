@@ -126,6 +126,10 @@ select.form-control {
   color: #f22c54cb;
 }
 
+.nav-link:hover, .nav-link:focus {
+  color: #fff;
+}
+
 .nav-pills .nav-link.active {
   background-color: #f22c54cb;
   color: #fff;
